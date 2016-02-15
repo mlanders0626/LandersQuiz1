@@ -38,7 +38,7 @@ namespace LandersQuiz1
                 }
                 Time = Time + 3;
             }
-            Console.WriteLine("Thank you for choosing Pizza. Your order will be ready in {0} minutes!", Time);
+            Console.WriteLine("Thank you for choosing Mr. Poopy Buttholes Pizza. Your order will be ready in {0} minutes!", Time);
             Console.ReadLine();
         }
     }
